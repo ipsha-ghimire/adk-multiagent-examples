@@ -1,0 +1,35 @@
+# THE STRAIGHT LINE
+
+## Logline
+In a world torn apart by religious wars, a brilliant Flemish scholar imprisoned for heresy must survive the Inquisition and complete a revolutionary map that will allow sailors to navigate the globe in straight lines—forever changing how humanity sees the world.
+
+## Synopsis
+
+### Act I: The Curvature of the Earth
+In 1540s Leuven, Flanders, Gerardus Mercator is a rising star in the scientific community. He is a master engraver, calligrapher, and instrument maker. Alongside his mentor Gemma Frisius and his supportive wife Barbara, Gerardus is obsessed with mapping the world. He believes that mapping the Earth is a form of worship—revealing the divine geometry of God's creation.
+
+The Protestant Reformation sweeps across Europe, sparking a brutal counter-reaction from the Catholic Inquisition. Because of Mercator's intellectual curiosity, his correspondence with scholars across Europe, and his possession of "unauthorized" scientific texts, he is arrested by the ruthless Inquisitor Ruard Tapper.
+
+Mercator is thrown into a dark dungeon in Rupelmonde Castle. For six months, he is interrogated and threatened with execution. He watches fellow prisoners dragged to the stake. Rather than breaking his spirit, the confinement sharpens his resolve: he realizes that the world is fractured by dogma, and it desperately needs a unifying, objective truth.
+
+Thanks to the fierce advocacy of his wife Barbara and university colleagues, Mercator is released due to a lack of definitive evidence. However, Leuven is no longer safe. To protect his family and his work, Mercator makes the painful decision to leave his homeland behind, fleeing to the more tolerant city of Duisburg in the Holy Roman Empire.
+
+### Act II: The Great Distortion
+In Duisburg, Mercator starts from scratch. He conceives an audacious, monumental project: a complete description of the cosmos, which he terms the "Atlas" (named after the mythical King of Mauretania, whom he considers the first great geographer).
+
+Mercator is contacted by merchants and sea captains who describe a terrifying reality: sailors are dying by the thousands because existing maps distort the curved Earth onto flat paper. A captain steering a constant compass course (a rhumb line) on a traditional map will inevitably drift miles off course into deadly reefs.
+
+After years of sleepless nights and complex mathematical calculations, Mercator has a breakthrough. By progressively stretching the spacing of latitude lines toward the poles, he realizes he can represent rhumb lines as perfectly straight lines on a flat map. This is the Mercator Projection (1569). It is a mathematical masterpiece, but it comes with a cost: it distorts the physical size of landmasses near the poles.
+
+Traditionalists, rival cartographers, and religious zealots attack his new map. They accuse him of "mutilating God's perfect creation" by making northern lands appear larger than they are. Meanwhile, the Inquisition places his writings on the Index Librorum Prohibitorum (Forbidden Books), threatening his livelihood.
+
+Tragedy strikes. Mercator’s eldest son and chief assistant, Arnold, dies unexpectedly. Shortly after, Mercator suffers a severe stroke that leaves him partially paralyzed. Unable to hold his engraving tools or stand at his drafting table, and with his family's finances dwindling, Mercator's grand "Atlas" lies unfinished. His critics declare his work dead, and Mercator falls into a deep depression, fearing he has failed both his family and his Creator.
+
+### Act III: The Atlas of the World
+Refusing to let her husband give up, Barbara rallies their remaining sons, Rumold and Bartholomeus, along with his loyal apprentices. Rumold places an engraving tool into his father's partially paralyzed hand, promising that they will be his hands if he will be their mind.
+
+Working feverishly in a race against Mercator's failing health, the family workshop operates day and night. Mercator dictates the mathematical coordinates and guides his sons' hands as they engrave the copper plates for the remaining maps of the Atlas. Despite threats from local authorities who still view his work as heretical, they complete the final plates.
+
+Gerardus Mercator passes away peacefully, knowing his life's work is complete. Rumold publishes the completed Atlas in 1595.
+
+A moving final montage shows ships successfully navigating treacherous, uncharted oceans using Mercator's projection, saving countless lives. The film transitions to the modern day, showing how Mercator's projection is still the foundation for global satellite navigation and digital maps (like Google Maps).
