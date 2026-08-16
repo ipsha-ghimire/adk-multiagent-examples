@@ -9,6 +9,33 @@ Quick structure
   - `parent_and_subagents/agent.py` — parent agent with subagents for travel planning
 - `adk_utils/` — small utility plugins
 
+## Architecture & Workflow
+
+### Movie Pitch Workflow
+This example demonstrates a complex multiagent workflow with Sequential, Loop, and Parallel agents working together to create a movie pitch:
+
+![Movie Pitch Workflow Diagram](./docs/workflow-diagram.png)
+
+The workflow includes:
+- **SequentialAgent** (`film_concept_team`) - Establishes the core concept
+- **LoopAgent** (`writers_room`) - Iteratively refines the screenplay with research and feedback loops
+- **ParallelAgent** (`preproduction_team`) - Executes parallel research and planning tasks
+
+### Workflow in Action
+Example of the research step in execution:
+
+![Workflow Event Execution](./docs/workflow-events.png)
+
+### Creative Collaboration
+The screenwriter agent produces detailed outputs:
+
+![Screenwriter Collaboration](./docs/screenwriter-output.png)
+
+### System Overview
+High-level view of how all components interact:
+
+![System Architecture](./docs/system-architecture.png)
+
 Getting started
 
 1. Create a Python virtual environment and install dependencies:
