@@ -11,15 +11,25 @@ Quick structure
 
 ## Architecture & Workflow
 
-![Movie Pitch Workflow Diagram](./docs/workflow-diagram.png)
+1. Agent architecture — `SequentialAgent` (`film_concept_team`) driving the `writers_room` `LoopAgent` (researcher/screenwriter/critic) into the `preproduction_team` `ParallelAgent` (box office researcher + casting agent), aggregated by `file_writer`.
 
-![Workflow Event Execution](./docs/workflow-events.png)
+   ![Agent architecture diagram](./images/1.png)
 
-![Screenwriter Collaboration](./docs/screenwriter-output.png)
+2. `researcher` step in the ADK web dev UI, pulling background on the historical subject via the Wikipedia tool.
 
-![Box Office Researcher Analysis](./docs/box-office-analysis.png)
+   ![Researcher event in ADK dev UI](./images/2.png)
 
-![System Architecture](./docs/system-architecture.png)
+3. `screenwriter` step producing the logline and three-act plot outline from the research.
+
+   ![Screenwriter event in ADK dev UI](./images/3.png)
+
+4. `casting_agent` step suggesting cast choices for the lead roles.
+
+   ![Casting agent event in ADK dev UI](./images/4.png)
+
+5. `box_office_researcher` step analyzing market drivers and commercial risk for the pitch.
+
+   ![Box office researcher event in ADK dev UI](./images/5.png)
 
 Getting started
 
